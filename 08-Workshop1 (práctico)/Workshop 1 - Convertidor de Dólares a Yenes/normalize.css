@@ -14,3 +14,14 @@ button
 {
     margin: 2%;
 }
+
+
+.resultadoDelCambio
+{   color: green;
+    
+    
+    height:300px;
+    font-size: 200%;
+    display: grid;
+    justify-content: center;
+}
